@@ -1,0 +1,287 @@
+
+body{
+    font-family: Georgia;
+    
+}
+.carousel-control-prev-icon {
+	color: green;
+	background-color: red;
+	width: 70px;
+	height: 50px;
+	margin-right: 26px;
+}
+.carousel-control-next-icon {
+	color: green;
+	background-color: red;
+	width: 70px;
+	height: 50px;
+	margin-left: 20px;
+}
+.carousel-caption {
+	color: #ffff33;
+}
+
+
+.leftpart1 {
+
+	margin-top: 25px;
+	margin-left: 20px;
+	
+}
+.leftpart1 p1 {
+	font-size: 26px;
+	color: #4a4a4a;
+}
+.leftpart1 p2 {
+	font-size: 12px;
+	color: #999999;
+}
+
+.rightpart1 {
+
+	margin-top: 34px;
+	float: right;
+	margin-right: 20px;
+	
+}
+
+.rightpart1 input {
+	background-color: #353535;
+	height: 32px;
+	color: #999999;
+	width: 215px;
+    border-radius: 12px;
+	font-size: 12px;
+	border: none;
+}
+
+.rightpart1 button {
+	background-color: #d54346;
+	border-radius: 10px;
+	color: #ffffff;
+	height: 31px;
+	width: 68px;
+	font-size: 12px;
+	border: none;
+}
+
+.button1{
+
+}
+
+.navigation {
+	margin-top: 38px;
+}
+.navigation ul {
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+}
+.navigation ul li {
+	float: left;
+	padding-left: 25px;
+	margin-left: 2px;
+}
+.navigation ul li a {
+	font-size: 12px;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	color: #999999;
+}
+.navigation ul li a:hover{
+    color:#d54346;
+}
+
+.rightpart2 {
+	margin-top: 17px;
+	margin-right: 20px;
+}
+.rightpart2 ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.rightpart2 ul li {
+	float: right;
+	margin-left: 10px;
+}
+.rightpart2 ul li a {
+	display: block;
+}
+.rightpart2 ul li a:hover{
+    
+}
+.dag {
+	border: 1px solid silver;
+	margin-top: 26px;
+	margin-bottom: 52px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.mid {
+	margin-left: 20px;
+	margin-top: 45px;
+}
+.mid p1 {
+	font-size: 16px;
+	color: #666666;
+}
+.mid p2 {
+	font-size: 13px;
+	color: #999999;
+}
+.mid button {
+	margin-top: 20px;
+	width: 107px;
+	font-size: 11px;
+	color: #ffffff;
+	background-color: #d54346;
+	height: 34px;
+	border-radius: 31px;
+	border: none;
+}
+.border2 {
+	border: 1px solid silver;
+	margin-top: 52px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.pic1 {
+	background-color: #ffffff;
+	border: 1px solid #d8d8d8;
+	height: 90px;
+	width: 90px;
+	margin-left: 20px;
+	float: left;
+	margin-top: 30px;
+}
+.pic1 img {
+	width: 80px;
+	height: 80px;
+	padding: 5px;
+}
+
+.pic1 img:hover{
+	s
+}
+.text {
+	margin-left: 10px;
+	margin-top: 30px;
+}
+.text p1 {
+	font-size: 14px;
+	color: #d54346;
+}
+.text p2 {
+	font-size: 13px;
+	color: #999999;
+}
+.hading {
+	margin-left: 20px;
+	margin-top: 50px;
+}
+.hading p {
+	font-size: 16px;
+	color: #666666;
+}
+.rightheading {
+	margin-top: 50px;
+}
+.righthead p {
+	font-size: 16px;
+	color: #666666;
+}
+.rightimg {
+	width: 225px;
+	height: 145px;
+}
+.rightimg img {
+	width: 225px;
+	height: 145px;
+	float: left;
+}
+.righttext{
+
+}
+.righttext p {
+	font-size: 13px;
+	color: #999999;
+}
+.rightheading {
+	margin-bottom: 30px;
+}
+.righttext2 {
+	margin-top: 16px;
+}
+.righttext2 p {
+	font-size: 13px;  
+	color: #999999;
+}
+.righttext2 button {
+	font-size: 11px;
+	color: #ffffff;
+	background-color: #d54346;
+	width: 107px;
+	height: 32px;
+	border-radius: 17px;
+	float: right;
+	border: none;
+}
+.text2 {
+	padding-top: 28px;
+	margin-left: 20px;
+}
+.text2 p {
+	font-size: 16px;
+	color: #666666;
+}
+.text2 p2 {
+	font-size: 16px;
+	color: #989898;
+	padding-left: 65px;
+}
+.text2 p3 {
+	padding-left: 65px;
+	font-size: 13px;
+	color: #d54346;
+	text-decoration: none;
+}
+.text2 p3 a{
+	color: #d54346;
+	text-decoration: none;
+}
+.thxt3{
+
+}
+.thxt3 p {
+	font-size: 13px;
+	color: #888888;
+}
+.border3 {
+	border: 1px solid silver;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.futtorleft {
+	margin-left: 20px;
+}
+.futtorleft p {
+	font-size: 12px;
+	color: #999999;
+}
+.futtorright {
+	float: right;
+	padding-right: 20px;
+}
+.futtorright p {
+	font-size: 12px;
+	color: #999999;
+}
+.navbar-toggler {
+	background-color: pink;
+	opacity: 10;
+}
